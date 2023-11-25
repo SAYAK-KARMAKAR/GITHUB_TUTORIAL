@@ -1,2 +1,2 @@
 #Handwritten notes by me
-It contains all tutorials related notes
+It contains all tutorials related notes!
