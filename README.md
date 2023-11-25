@@ -1,2 +1,2 @@
-# My_Notes_Storage
-All handmade or typed notes
+#Handwritten notes by me
+It contains all tutorials related notes
